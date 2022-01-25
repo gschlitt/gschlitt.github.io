@@ -1,1 +1,1 @@
-An academic timetable visualization tool for academic departments, built for UFV
+A timetable visualization tool for academic departments, built for UFV
