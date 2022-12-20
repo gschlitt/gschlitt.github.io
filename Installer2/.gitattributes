@@ -1,1 +1,4 @@
-
+*.manifest binary
+*.application binary
+*.depoly binary
+* -text
