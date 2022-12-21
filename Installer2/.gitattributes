@@ -1,4 +1,11 @@
+<<<<<<< HEAD
 *.manifest binary
 *.application binary
 *.deploy binary
 *  -text
+=======
+*.manifest binary
+*.application binary
+*.deploy binary
+*.text
+>>>>>>> a8e7bbdd8611512415e37c87174528c5684dcb65
