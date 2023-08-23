@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<configuration>
+	<configSections>
+  <sectionGroup name="userSettings" type="System.Configuration.UserSettingsGroup, System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" >
+   <section name="TermPoint.Properties.Settings" type="System.Configuration.ClientSettingsSection, System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" allowExeDefinition="MachineToLocalUser" requirePermission="false" />
+  </sectionGroup>
+ </configSections>
+ <appSettings>
+		<add key="EncryptedConnectionString" value="qxtdWrTyhVNR9KMTCtzuGHfmZ4/c5x+bpqS0OJ+Pza1fwjkHpdU8LwhHH9JdVqnedeiInGJF8PdPxBdeaDKHh3BJfSpzFXHQab2I5ebcEk2tmKUR7czjWkAn61xSVre0cAKEbhvPCIRwtBsXYxe1gPiTzG/M+w+RtLmnfR/s1Gn6za1chHd5RdlU6QkUxJ5RfR6+WnYKoNLGycgh6fcw/bFEq1bs/aQxH8VvqzxfYogszGyMW/uRyGSEAKTEtYFWHmE+VoF4R0xQ5TRe3w1k4NYoTYRh+ifS+FAaFVrzVq1Ch3rMg6WzIDcU9h9tgCH04uKpdsoR4jYGVh+dX03SwoGXQFfkSL5vE766vkZspyQrIhkRDBfwcbAwWSRvn9JnOvxq7dZH3qSLyg=="></add>
+	    <add key="IsAdminInstance" value="true"/>
+	    
+	</appSettings>	 
+ <userSettings>
+  <TermPoint.Properties.Settings>
+   <setting name="RecentUnitName" serializeAs="String">
+    <value />
+   </setting>
+   <setting name="RecentPassword" serializeAs="String">
+    <value />
+   </setting>
+   <setting name="RecentInstitutionName" serializeAs="String">
+    <value>University of the Fraser Valley</value>
+   </setting>
+   <setting name="RecentInstitutionCode" serializeAs="String">
+    <value>UFV</value>
+   </setting>
+   <setting name="Units" serializeAs="String">
+    <value />
+   </setting>
+   <setting name="RememberMe" serializeAs="String">
+    <value>False</value>
+   </setting>
+   <setting name="RecentAcademicYear" serializeAs="String">
+    <value />
+   </setting>
+   <setting name="RecentSemesters" serializeAs="String">
+    <value />
+   </setting>
+   <setting name="BackupLocation" serializeAs="String">
+    <value />
+   </setting>
+   <setting name="LastLogin" serializeAs="String">
+    <value />
+   </setting>
+   <setting name="Setting" serializeAs="String">
+    <value>test</value>
+   </setting>
+   <setting name="UserName" serializeAs="String">
+    <value />
+   </setting>
+   <setting name="MailoutSubjectTemplate" serializeAs="String">
+    <value>Workload Assignment for  [AY]</value>
+   </setting>
+   <setting name="MailoutBodyTemplate" serializeAs="String">
+    <value>Hi [FN].  I've got your your workload assignment for [AY] ready. Please let me know right away if you see any errors or problems! [WA] 
+</value>
+   </setting>
+   <setting name="StaffColumn" serializeAs="String">
+    <value>True</value>
+   </setting>
+   <setting name="SectionTypeColumn" serializeAs="String">
+    <value>True</value>
+   </setting>
+   <setting name="ReservesColumn" serializeAs="String">
+    <value>True</value>
+   </setting>
+   <setting name="TagsColumn" serializeAs="String">
+    <value>True</value>
+   </setting>
+   <setting name="CampusColumn" serializeAs="String">
+    <value>True</value>
+   </setting>
+   <setting name="ResourceColumn" serializeAs="String">
+    <value>True</value>
+   </setting>
+   <setting name="Setting1" serializeAs="String">
+    <value>False</value>
+   </setting>
+  </TermPoint.Properties.Settings>
+ </userSettings>
+</configuration>
